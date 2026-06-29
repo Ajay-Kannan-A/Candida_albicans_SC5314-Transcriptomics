@@ -3,10 +3,14 @@
 An end-to-end differential gene expression (DGE) pipeline validating and exploring the transcriptomic changes in the reference clinical strain *Candida albicans* SC5314 when treated with Pulsatilla decoction butanol extract (EAEB) versus a Wild Type (WT) control group. 
 
 ## Repository Structure
-* `/data` - Contains the primary processed datasets, including:
-  * **`Candida_DESeq2_Analysis.xlsx`** (The comprehensive master workbook containing full baseline metrics, curated significance tables, and sorted directional expression profiles).
-  * Configuration pathways and links to reference assembly builds.
-* `/images` - Downstream pipeline visualizations including Volcano plots and Expression heatmaps.
+* `/data` - Contains the primary processed and raw datasets:
+  * **`Candida_DESeq2_Analysis.xlsx`**: The comprehensive master workbook containing full baseline metrics, curated statistical significance sheets, and sorted top expression lists.
+  * **`deseq2_results_unfiltered.tabular`**: The raw, direct unfiltered transcriptomic output downloaded from the Galaxy pipeline.
+  * **`go_term_finder_results_top20_upregulated_genes.tsv`**: The structural enrichment profile for highly induced cellular processes.
+  * **`go_term_finder_results_top20_downregulated_genes.tsv`**: The structural enrichment profile for suppressed physiological pathways.
+* `/images` - Downstream pipeline visualizations including:
+  * **`deseq2_volcano.png`**: High-resolution volcano plot mapping transcriptomic shift layout.
+  * **`expression_heatmap.png`**: High-resolution heatmap profiling top differential gene contrasts.
 
 ---
 
