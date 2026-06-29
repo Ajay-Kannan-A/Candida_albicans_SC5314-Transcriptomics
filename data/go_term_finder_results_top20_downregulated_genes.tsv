@@ -1,0 +1,62 @@
+GOID	GO Term	Aspect	Query Count	Query Total	Query %	Background Count	Background Total	Background %	Fold Enrichment	P-value	FDR	Genes
+GO:0051703	biological process involved in intraspecies interaction between organisms	Biological Process	6	20	30.00%	175	6672	2.6229%	11.44	8.53e-06	2.64e-04	ALS3, YVC1, PMT2, PMT4, HYR1, CSA2
+GO:0098630	aggregation of unicellular organisms	Biological Process	6	20	30.00%	202	6672	3.0276%	9.91	1.94e-05	2.64e-04	ALS3, YVC1, PMT2, PMT4, HYR1, CSA2
+GO:0042710	biofilm formation	Biological Process	6	20	30.00%	202	6672	3.0276%	9.91	1.94e-05	2.64e-04	ALS3, YVC1, PMT2, PMT4, HYR1, CSA2
+GO:0098743	cell aggregation	Biological Process	6	20	30.00%	203	6672	3.0426%	9.86	2.00e-05	2.64e-04	ALS3, YVC1, PMT2, PMT4, HYR1, CSA2
+GO:0044011	single-species biofilm formation on inanimate substrate	Biological Process	5	20	25.00%	120	6672	1.7986%	13.90	2.16e-05	2.64e-04	ALS3, PMT2, PMT4, HYR1, CSA2
+GO:0090609	single-species submerged biofilm formation	Biological Process	5	20	25.00%	130	6672	1.9484%	12.83	3.19e-05	3.24e-04	ALS3, PMT2, PMT4, HYR1, CSA2
+GO:0090605	submerged biofilm formation	Biological Process	5	20	25.00%	139	6672	2.0833%	12.00	4.40e-05	3.84e-04	ALS3, PMT2, PMT4, HYR1, CSA2
+GO:0000921	septin ring assembly	Biological Process	2	20	10.00%	4	6672	0.0600%	166.80	5.10e-05	3.89e-04	CDC12, CDC11
+GO:0044010	single-species biofilm formation	Biological Process	5	20	25.00%	169	6672	2.5330%	9.87	1.12e-04	7.58e-04	ALS3, PMT2, PMT4, HYR1, CSA2
+GO:0030011	maintenance of cell polarity	Biological Process	2	20	10.00%	6	6672	0.0899%	111.20	1.27e-04	7.76e-04	CDC12, CDC11
+GO:0051707	response to other organism	Biological Process	3	20	15.00%	37	6672	0.5546%	27.05	1.68e-04	8.34e-04	ALS3, SOD5, HYR1
+GO:0043207	response to external biotic stimulus	Biological Process	3	20	15.00%	37	6672	0.5546%	27.05	1.68e-04	8.34e-04	ALS3, SOD5, HYR1
+GO:0031106	septin ring organization	Biological Process	2	20	10.00%	7	6672	0.1049%	95.31	1.78e-04	8.34e-04	CDC12, CDC11
+GO:0006811	monoatomic ion transport	Biological Process	4	20	20.00%	100	6672	1.4988%	13.34	1.91e-04	8.34e-04	ALS3, YVC1, ENA21, CSA2
+GO:0032185	septin cytoskeleton organization	Biological Process	2	20	10.00%	8	6672	0.1199%	83.40	2.36e-04	9.62e-04	CDC12, CDC11
+GO:0009605	response to external stimulus	Biological Process	3	20	15.00%	45	6672	0.6745%	22.24	3.02e-04	1.15e-03	ALS3, SOD5, HYR1
+GO:0044419	biological process involved in interspecies interaction between organisms	Biological Process	6	20	30.00%	350	6672	5.2458%	5.72	4.13e-04	1.48e-03	CDC11, ALS3, YVC1, SOD5, PMT4, HYR1
+GO:0034755	iron ion transmembrane transport	Biological Process	2	20	10.00%	11	6672	0.1649%	60.65	4.62e-04	1.57e-03	ALS3, CSA2
+GO:0098771	inorganic ion homeostasis	Biological Process	3	20	15.00%	54	6672	0.8094%	18.53	5.18e-04	1.66e-03	ALS3, YVC1, CSA2
+GO:0006493	protein O-linked glycosylation	Biological Process	2	20	10.00%	13	6672	0.1948%	51.32	6.53e-04	1.99e-03	PMT2, PMT4
+GO:0006873	intracellular monoatomic ion homeostasis	Biological Process	3	20	15.00%	61	6672	0.9143%	16.41	7.42e-04	2.06e-03	ALS3, YVC1, CSA2
+GO:0030003	intracellular monoatomic cation homeostasis	Biological Process	3	20	15.00%	61	6672	0.9143%	16.41	7.42e-04	2.06e-03	ALS3, YVC1, CSA2
+GO:0006888	endoplasmic reticulum to Golgi vesicle-mediated transport	Biological Process	2	20	10.00%	15	6672	0.2248%	44.48	8.76e-04	2.10e-03	SEC23, SEC24
+GO:0006810	transport	Biological Process	7	20	35.00%	566	6672	8.4832%	4.13	8.86e-04	2.10e-03	CDC11, ALS3, YVC1, SEC23, SEC24, ENA21, CSA2
+GO:0050801	monoatomic ion homeostasis	Biological Process	3	20	15.00%	65	6672	0.9742%	15.40	8.94e-04	2.10e-03	ALS3, YVC1, CSA2
+GO:0055080	monoatomic cation homeostasis	Biological Process	3	20	15.00%	65	6672	0.9742%	15.40	8.94e-04	2.10e-03	ALS3, YVC1, CSA2
+GO:0051234	establishment of localization	Biological Process	7	20	35.00%	576	6672	8.6331%	4.05	9.84e-04	2.22e-03	CDC11, ALS3, YVC1, SEC23, SEC24, ENA21, CSA2
+GO:0006812	monoatomic cation transport	Biological Process	3	20	15.00%	73	6672	1.0941%	13.71	1.25e-03	2.73e-03	ALS3, ENA21, CSA2
+GO:0006826	iron ion transport	Biological Process	2	20	10.00%	19	6672	0.2848%	35.12	1.42e-03	2.98e-03	ALS3, CSA2
+GO:0051649	establishment of localization in cell	Biological Process	4	20	20.00%	175	6672	2.6229%	7.63	1.59e-03	3.24e-03	CDC11, ALS3, SEC23, SEC24
+GO:0051179	localization	Biological Process	7	20	35.00%	637	6672	9.5474%	3.67	1.79e-03	3.52e-03	CDC11, ALS3, YVC1, SEC23, SEC24, ENA21, CSA2
+GO:0055082	intracellular chemical homeostasis	Biological Process	3	20	15.00%	86	6672	1.2890%	11.64	2.01e-03	3.83e-03	ALS3, YVC1, CSA2
+GO:0019725	cellular homeostasis	Biological Process	3	20	15.00%	94	6672	1.4089%	10.65	2.60e-03	4.80e-03	ALS3, YVC1, CSA2
+GO:0006879	intracellular iron ion homeostasis	Biological Process	2	20	10.00%	27	6672	0.4047%	24.71	2.86e-03	4.83e-03	ALS3, CSA2
+GO:0035351	heme transmembrane transport	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	4.83e-03	CSA2
+GO:0006900	vesicle budding from membrane	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	4.83e-03	SEC23
+GO:0090114	COPII-coated vesicle budding	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	4.83e-03	SEC23
+GO:0048878	chemical homeostasis	Biological Process	3	20	15.00%	99	6672	1.4838%	10.11	3.01e-03	4.83e-03	ALS3, YVC1, CSA2
+GO:0051641	cellular localization	Biological Process	4	20	20.00%	210	6672	3.1475%	6.35	3.11e-03	4.86e-03	CDC11, ALS3, SEC23, SEC24
+GO:0098609	cell-cell adhesion	Biological Process	2	20	10.00%	29	6672	0.4347%	23.01	3.30e-03	5.04e-03	ALS3, YVC1
+GO:0052200	symbiont-mediated response to host defenses	Biological Process	2	20	10.00%	30	6672	0.4496%	22.24	3.53e-03	5.25e-03	SOD5, HYR1
+GO:0042592	homeostatic process	Biological Process	3	20	15.00%	107	6672	1.6037%	9.35	3.75e-03	5.44e-03	ALS3, YVC1, CSA2
+GO:0075136	response to host	Biological Process	2	20	10.00%	32	6672	0.4796%	20.85	4.01e-03	5.69e-03	SOD5, HYR1
+GO:0000041	transition metal ion transport	Biological Process	2	20	10.00%	33	6672	0.4946%	20.22	4.26e-03	5.91e-03	ALS3, CSA2
+GO:0140694	membraneless organelle assembly	Biological Process	2	20	10.00%	35	6672	0.5246%	19.06	4.79e-03	6.49e-03	CDC12, CDC11
+GO:0070925	organelle assembly	Biological Process	2	20	10.00%	38	6672	0.5695%	17.56	5.63e-03	7.30e-03	CDC12, CDC11
+GO:0048193	Golgi vesicle transport	Biological Process	2	20	10.00%	38	6672	0.5695%	17.56	5.63e-03	7.30e-03	SEC23, SEC24
+GO:0045861	negative regulation of proteolysis	Biological Process	1	20	5.00%	2	6672	0.0300%	166.80	5.99e-03	7.30e-03	PMT4
+GO:0030162	regulation of proteolysis	Biological Process	1	20	5.00%	2	6672	0.0300%	166.80	5.99e-03	7.30e-03	PMT4
+GO:0052164	symbiont defense to host-produced reactive oxygen species	Biological Process	1	20	5.00%	2	6672	0.0300%	166.80	5.99e-03	7.30e-03	SOD5
+GO:0051701	biological process involved in interaction with host	Biological Process	3	20	15.00%	128	6672	1.9185%	7.82	6.19e-03	7.41e-03	ALS3, SOD5, HYR1
+GO:0035821	modulation of process of another organism	Biological Process	2	20	10.00%	43	6672	0.6445%	15.52	7.16e-03	8.24e-03	ALS3, SOD5
+GO:0044003	symbiont-mediated perturbation of host process	Biological Process	2	20	10.00%	43	6672	0.6445%	15.52	7.16e-03	8.24e-03	ALS3, SOD5
+GO:0016192	vesicle-mediated transport	Biological Process	3	20	15.00%	137	6672	2.0534%	7.31	7.48e-03	8.44e-03	ALS3, SEC23, SEC24
+GO:0007163	establishment or maintenance of cell polarity	Biological Process	2	20	10.00%	47	6672	0.7044%	14.20	8.51e-03	9.44e-03	CDC12, CDC11
+GO:0044182	filamentous growth of a population of unicellular organisms	Biological Process	5	20	25.00%	447	6672	6.6996%	3.73	8.83e-03	9.61e-03	CDC11, ALS3, YVC1, PMT2, PMT4
+GO:0098655	monoatomic cation transmembrane transport	Biological Process	2	20	10.00%	49	6672	0.7344%	13.62	9.23e-03	9.72e-03	ALS3, CSA2
+GO:0044403	biological process involved in symbiotic interaction	Biological Process	3	20	15.00%	148	6672	2.2182%	6.76	9.24e-03	9.72e-03	ALS3, SOD5, HYR1
+GO:0030001	metal ion transport	Biological Process	2	20	10.00%	50	6672	0.7494%	13.34	9.59e-03	9.75e-03	ALS3, CSA2
+GO:0070783	growth of unicellular organism as a thread of attached cells	Biological Process	2	20	10.00%	50	6672	0.7494%	13.34	9.59e-03	9.75e-03	CDC11, YVC1
+GO:0034220	monoatomic ion transmembrane transport	Biological Process	2	20	10.00%	51	6672	0.7644%	13.08	9.97e-03	9.97e-03	ALS3, CSA2

@@ -1,0 +1,32 @@
+GOID	GO Term	Aspect	Query Count	Query Total	Query %	Background Count	Background Total	Background %	Fold Enrichment	P-value	FDR	Genes
+GO:0097035	regulation of membrane lipid distribution	Biological Process	3	20	15.00%	10	6672	0.1499%	100.08	2.73e-06	8.46e-05	CDR1, RTA3, CDR2
+GO:0071383	cellular response to steroid hormone stimulus	Biological Process	2	20	10.00%	4	6672	0.0600%	166.80	5.10e-05	3.16e-04	CDR1, CDR2
+GO:0032870	cellular response to hormone stimulus	Biological Process	2	20	10.00%	4	6672	0.0600%	166.80	5.10e-05	3.16e-04	CDR1, CDR2
+GO:0048545	response to steroid hormone	Biological Process	2	20	10.00%	4	6672	0.0600%	166.80	5.10e-05	3.16e-04	CDR1, CDR2
+GO:0009725	response to hormone	Biological Process	2	20	10.00%	4	6672	0.0600%	166.80	5.10e-05	3.16e-04	CDR1, CDR2
+GO:0045332	phospholipid translocation	Biological Process	2	20	10.00%	7	6672	0.1049%	95.31	1.78e-04	9.03e-04	CDR1, CDR2
+GO:0034204	lipid translocation	Biological Process	2	20	10.00%	8	6672	0.1199%	83.40	2.36e-04	9.03e-04	CDR1, CDR2
+GO:0071466	cellular response to xenobiotic stimulus	Biological Process	6	20	30.00%	320	6672	4.7962%	6.25	2.54e-04	9.03e-04	C7_01430C_A, CDR1, RTA3, PDR16, CDR2, ROA1
+GO:0009410	response to xenobiotic stimulus	Biological Process	6	20	30.00%	341	6672	5.1109%	5.87	3.59e-04	9.03e-04	C7_01430C_A, CDR1, RTA3, PDR16, CDR2, ROA1
+GO:0033993	response to lipid	Biological Process	2	20	10.00%	10	6672	0.1499%	66.72	3.79e-04	9.03e-04	CDR1, CDR2
+GO:0071396	cellular response to lipid	Biological Process	2	20	10.00%	10	6672	0.1499%	66.72	3.79e-04	9.03e-04	CDR1, CDR2
+GO:0009719	response to endogenous stimulus	Biological Process	2	20	10.00%	10	6672	0.1499%	66.72	3.79e-04	9.03e-04	CDR1, CDR2
+GO:0071495	cellular response to endogenous stimulus	Biological Process	2	20	10.00%	10	6672	0.1499%	66.72	3.79e-04	9.03e-04	CDR1, CDR2
+GO:0015914	phospholipid transport	Biological Process	2	20	10.00%	11	6672	0.1649%	60.65	4.62e-04	1.02e-03	CDR1, CDR2
+GO:0010876	lipid localization	Biological Process	2	20	10.00%	15	6672	0.2248%	44.48	8.76e-04	1.70e-03	CDR1, CDR2
+GO:0006869	lipid transport	Biological Process	2	20	10.00%	15	6672	0.2248%	44.48	8.76e-04	1.70e-03	CDR1, CDR2
+GO:0065008	regulation of biological quality	Biological Process	3	20	15.00%	66	6672	0.9892%	15.16	9.35e-04	1.70e-03	CDR1, RTA3, CDR2
+GO:0061024	membrane organization	Biological Process	3	20	15.00%	70	6672	1.0492%	14.30	1.11e-03	1.91e-03	CDR1, RTA3, CDR2
+GO:0015748	organophosphate ester transport	Biological Process	2	20	10.00%	25	6672	0.3747%	26.69	2.46e-03	3.87e-03	CDR1, CDR2
+GO:0070887	cellular response to chemical stimulus	Biological Process	6	20	30.00%	506	6672	7.5839%	3.96	2.85e-03	3.87e-03	C7_01430C_A, CDR1, RTA3, PDR16, CDR2, ROA1
+GO:0032368	regulation of lipid transport	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	3.87e-03	RTA3
+GO:1905952	regulation of lipid localization	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	3.87e-03	RTA3
+GO:0061091	regulation of phospholipid translocation	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	3.87e-03	RTA3
+GO:2001138	regulation of phospholipid transport	Biological Process	1	20	5.00%	1	6672	0.0150%	333.60	3.00e-03	3.87e-03	RTA3
+GO:0042221	response to chemical	Biological Process	6	20	30.00%	574	6672	8.6031%	3.49	5.37e-03	6.66e-03	C7_01430C_A, CDR1, RTA3, PDR16, CDR2, ROA1
+GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane	Biological Process	2	20	10.00%	44	6672	0.6595%	15.16	7.49e-03	8.29e-03	CDR1, CDR2
+GO:0046618	xenobiotic export from cell	Biological Process	2	20	10.00%	44	6672	0.6595%	15.16	7.49e-03	8.29e-03	CDR1, CDR2
+GO:0042908	xenobiotic transport	Biological Process	2	20	10.00%	44	6672	0.6595%	15.16	7.49e-03	8.29e-03	CDR1, CDR2
+GO:0045117	azole transmembrane transport	Biological Process	1	20	5.00%	3	6672	0.0450%	111.20	8.97e-03	9.23e-03	CDR1
+GO:0015903	fluconazole transport	Biological Process	1	20	5.00%	3	6672	0.0450%	111.20	8.97e-03	9.23e-03	CDR1
+GO:0140115	export across plasma membrane	Biological Process	2	20	10.00%	49	6672	0.7344%	13.62	9.23e-03	9.23e-03	CDR1, CDR2
