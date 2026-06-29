@@ -43,12 +43,12 @@ Rather than maintaining fragmented text files, all downstream subsets and logica
 ### 1. Volcano Plot
 The volcano plot illustrates statistical significance (-log10 Padj) against the magnitude of change (log2 Fold Change). Statistically significant differentially expressed genes (Padj < 0.05 and absolute log2FC > 1) are distinctly colored based on the thresholds described in the filtering methodology.
 
-![Volcano Plot](images/download.png)
+![Volcano Plot](images/deseq2_volcano.png)
 
 ### 2. Expression Profiles (Top 40 DEGs Heatmap)
 This visual highlights highly contrasting expression matrix shifts comparing the Top 20 Upregulated and Top 20 Downregulated significant genes extracted from the curated Excel sheets.
 
-![Expression Heatmap](images/download%20%281%29.png)
+![Expression Heatmap](images/expression_heatmap.png)
 
 ---
 
